@@ -28,8 +28,8 @@
 
 - ⚡ Fun fact **এখন আমার মেঘলা আকাশ একলা থাকার দিন, এখন আমার নিজের কাছেই নিজের অনেক ঋণ।**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/nazmulhasancto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nazmulhasancto" height="30" width="40" /></a>
 <a href="https://fb.com/nazmul.ypdesigner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nazmul.ypdesigner" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@ypdesigner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ypdesigner" height="30" width="40" /></a>
